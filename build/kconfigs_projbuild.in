@@ -1,0 +1,5 @@
+source "C:/Users/a1171/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/a1171/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/a1171/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/a1171/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "D:/Nhungkhongday/Blink_led/main/Kconfig.projbuild"
